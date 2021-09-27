@@ -1,0 +1,8 @@
+cd c:\intel
+git clone https://github.com/jakeentony/jakeentony.github.io.git
+cd jakeentony.github.io
+git remote set-url origin https://jakeentony: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@github.com/jakeentony/jakeentony.github.io.git
+
+git add .
+git commit -m "02 - Створив шаблон"
+git push
